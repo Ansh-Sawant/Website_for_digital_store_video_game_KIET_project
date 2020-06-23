@@ -1,0 +1,23 @@
+.category{
+    border: 1px solid #343A40;
+    /* background-color: #343A40; */
+    margin-top: 50px;
+    padding: 15px;
+}
+
+.compo{
+    margin-top: 50px;
+    padding: 15px;
+}
+
+.footer{
+    /* background-color: #343A40; */
+    border: 1px solid whitesmoke;
+    margin-top: 50px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.category a{
+    color: whitesmoke !important;
+}
