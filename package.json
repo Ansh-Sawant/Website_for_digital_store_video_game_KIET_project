@@ -1,0 +1,25 @@
+{
+  "name": "ansh",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ansh-Sawant/Website_for_digital_store_video_game_KIET_project.git"
+  },
+  "author": "Ansh Sawant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ansh-Sawant/Website_for_digital_store_video_game_KIET_project/issues"
+  },
+  "homepage": "https://github.com/Ansh-Sawant/Website_for_digital_store_video_game_KIET_project#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.20"
+  }
+}
